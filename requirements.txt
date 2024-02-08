@@ -30,4 +30,4 @@ flow_vis
 
 -e git+https://github.com/iago-suarez/pytlsd.git#egg=pytlsd
 -e git+https://github.com/cvg/DeepLSD.git#egg=deeplsd
--e git+https://github.com/cvg/GlueStick.git#egg=gluestick
+# -e git+https://github.com/cvg/GlueStick.git#egg=gluestick
